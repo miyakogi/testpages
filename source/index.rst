@@ -12,6 +12,8 @@ Contents:
    :maxdepth: 2
 
 
+This is the second version.
+
 
 Indices and tables
 ==================
