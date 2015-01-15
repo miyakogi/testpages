@@ -12,7 +12,7 @@ Contents:
    :maxdepth: 2
 
 
-This is the second version.
+This is the third version.
 
 
 Indices and tables
