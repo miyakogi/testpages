@@ -1,1 +1,0 @@
-Search.setIndex({objects:{},terms:{content:0,search:0,index:0,modul:0},objnames:{},filenames:["index"],objtypes:{},envversion:43,titleterms:{test:0,welcom:0,document:0,indic:0,github:0,page:0,tabl:0},titles:["Welcome to Github Pages Test&#8217;s documentation!"]})
